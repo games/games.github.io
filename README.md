@@ -1,3 +1,3 @@
 [Visit](https://valor.netlify.com/)
 
-[For Testing](/pages/fortesting)
+[For Testing](https://games.github.io/pages/fortesting)
