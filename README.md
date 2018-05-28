@@ -1,3 +1,1 @@
-[Visit](https://valor.netlify.com/)
-
-[For Testing](https://games.github.io/pages/fortesting)
+﻿[5/28/2018 6:51:20 PM](/pages/2018/5/28)
