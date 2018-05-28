@@ -98,3 +98,4 @@
 
 [【fsharp/FAKE】 Fix broken link to `Add FAKE Dependencies` section on migration guide - 2018/5/21](https://api.github.com/repos/fsharp/FAKE/pulls/1952)
 
+[【fsharp/fslang-suggestions】 Allow _.Property or (.Property) shorthand accessor functions - 2018/5/28] (https://api.github.com/repos/fsharp/fslang-suggestions/issues/506)
